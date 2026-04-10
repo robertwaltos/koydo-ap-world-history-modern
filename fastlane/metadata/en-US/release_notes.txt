@@ -1,0 +1,5 @@
+Initial release of Koydo AP World History: Modern Prep.
+
+• Practice questions
+• Score tracking
+• AI tutor integration
